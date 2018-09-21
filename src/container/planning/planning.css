@@ -1,0 +1,23 @@
+.container{width:100% !important; max-width: 100%}
+.js-list-name-input{
+    overflow: hidden;
+    word-wrap: break-word;
+    height: 30px !important;
+}
+.js-list{ margin-bottom: 20px;}
+.mod-list-name {
+    background: transparent;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    box-shadow: none;
+    font-weight: 700;
+    margin: -4px 0;
+    height: 20px;
+    min-height: 20px;
+    padding: 4px 7px;
+    resize: none;
+    max-height: 256px; margin-bottom:0px;
+}
+.js-list-name-assist {
+    word-wrap: break-word;
+}
